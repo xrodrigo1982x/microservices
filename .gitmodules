@@ -1,0 +1,24 @@
+[submodule "microservices-config"]
+	path = microservices-config
+	url = https://github.com/xrodrigo1982x/microservices-config.git
+[submodule "microservices-application"]
+	path = microservices-application
+	url = https://github.com/xrodrigo1982x/microservices-application.git
+[submodule "microservices-discovery"]
+	path = microservices-discovery
+	url = https://github.com/xrodrigo1982x/microservices-discovery.git
+[submodule "microservices-configurations"]
+	path = microservices-configurations
+	url = https://github.com/xrodrigo1982x/microservices-configurations.git
+[submodule "microservices-user"]
+	path = microservices-user
+	url = https://github.com/xrodrigo1982x/microservices-user.git
+[submodule "microservices-tweet"]
+	path = microservices-tweet
+	url = https://github.com/xrodrigo1982x/microservices-tweet.git
+[submodule "microservices-follow"]
+	path = microservices-follow
+	url = https://github.com/xrodrigo1982x/microservices-follow.git
+[submodule "microservices-site"]
+	path = microservices-site
+	url = https://github.com/xrodrigo1982x/microservices-site.git
